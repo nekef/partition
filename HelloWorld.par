@@ -1,0 +1,9 @@
+// No libraries used 
+
+local HelloWorld as String = "Hello World!"
+
+sys.print(HelloWorld)
+
+loop {
+// nothing here
+}
