@@ -1,5 +1,6 @@
 // Comment to describe the purpose of the code
 // This "partition" language code includes advanced storage-related functionalities.
+// partition does not have a compiler yet.
 
 // Importing external libraries using cargo
 cargo storageLibrary // Replace "storageLibrary" with the actual library name
